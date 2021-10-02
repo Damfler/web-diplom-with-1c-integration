@@ -1,0 +1,1 @@
+# web-diplom-with-1c-integration
